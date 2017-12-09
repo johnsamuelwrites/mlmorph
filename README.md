@@ -18,7 +18,7 @@ provided compiles compiles all the sources and produces the binary FSA
 
 In a debian/ubuntu based GNU/Linux, HFST can be installed as follows
 
-```$ sudo apt install hfst```
+```$ sudo apt install hfst sfst```
 
 Usage
 =====
