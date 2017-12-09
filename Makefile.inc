@@ -5,7 +5,7 @@ ifeq ($(FSTC),hfst)
 	hfst-sfstpl2fst -f openfst-tropical -v -i $< -o $@
 else
 %.a: %.fst
-	hfst-compiler-utf8 $< $@
+	fst-compiler-utf8 $< $@
 endif
 
 %.dot: %.a
