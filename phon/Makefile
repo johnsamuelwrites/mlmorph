@@ -1,8 +1,9 @@
-FSTFILES = chillu-normalization.fst virama-vowel.fst \
+FSTFILES = exceptions.fst chillu-normalization.fst virama-vowel.fst \
  	virama-consonant.fst vowel-to-vowelsign.fst consonant-vowel.fst \
 	vowelsign-consonant.fst consonant-consonant.fst \
 	chillu-consonant.fst \
-	vowelsign-vowel.fst
+	vowelsign-vowel.fst verb-negation.fst
+
 FSAFILES=$(FSTFILES:.fst=.a)
 
 include ../Makefile.inc
@@ -11,5 +12,4 @@ include ../Makefile.inc
 
 all: phon.a
 phon.a: $(FSAFILES)
-clean:
-	-rm -f *.a *~ Makefile.bak
+

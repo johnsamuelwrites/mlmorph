@@ -1,20 +1,22 @@
-SUBDIRS = lexicon phon ninfl vinfl
+SUBDIRS = lexicon phon ninfl vinfl deriv python
 
 include Makefile.inc
 
 .PHONY: all subdirs $(SUBDIRS)
 
-all: malayalam.a
+all: malayalam.a python
 
-malayalam.a: malayalam.fst morph.a afilter.a
-morph.a: morph.fst subdirs num.a
+malayalam.a: morph.a afilter.a
+noun.a: ninfl lexicon deriv phon num.a verb.a
+verb.a: vinfl lexicon phon
+morph.a: verb.a noun.a num.a
 subdirs: $(SUBDIRS)
 $(SUBDIRS):
 	$(MAKE) -C $@
 
-clean:
-	-rm -f *.a *.dot *~ Makefile.bak tests.all *.gen*.txt
-	-for dir in $(SUBDIRS); do  $(MAKE) -C $$dir clean; done
+test: malayalam.a python
+	@python3 tests/mlmorph-test.py
 
-test: malayalam.a
-	python3 tests/mlmorph-test.py
+coverage-analysis: malayalam.a python
+	@python3 tests/coverage-test.py
+

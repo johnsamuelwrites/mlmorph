@@ -1,9 +1,13 @@
 include ../Makefile.inc
 
-vinfl.a: past.a future.a present.a converb.a concessive.a
+SUBDIRS = adverbs aspects moods voices
 
-.PHONY: all
+.PHONY: all subdirs $(SUBDIRS)
 
-all: vinfl.a
-clean:
-	-rm -f *.a *~ Makefile.bak
+all: tense.a subdirs
+tense.a: past.a future.a present.a concessive.a
+concessive.a: past.a
+
+subdirs: $(SUBDIRS)
+$(SUBDIRS):
+	$(MAKE) -C $@

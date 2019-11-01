@@ -1,9 +1,13 @@
 include ../Makefile.inc
 
-ninfl.a: plural.a genitive.a dative.a instrumental.a sociative.a accusative.a vocative.a locative.a
+SUBDIRS = cases
+ninfl.a: plural.a adjective.a standalone-adjective.a cases
+standalone-adjective.a: adjective.a
 
-.PHONY: all
+.PHONY: all subdirs $(SUBDIRS)
+subdirs: $(SUBDIRS)
+$(SUBDIRS):
+	$(MAKE) -C $@
 
 all: ninfl.a
-clean:
-	-rm -f *.a *~ Makefile.bak
+

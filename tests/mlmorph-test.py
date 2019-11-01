@@ -1,53 +1,72 @@
-import csv
+import json
 import unittest
 import sys
 import os
-os.chdir(os.path.dirname(os.path.realpath(__file__)))
-sys.path.insert(0, '../python')
-from mlmorph import Mlmorph
+import re
+
+from mlmorph import Generator, Analyser
+
+CURR_DIR = os.path.abspath(os.path.dirname(os.path.realpath(__file__)))
+
+class Struct:
+    def __init__(self, entries):
+        self.__dict__.update(**entries)
 
 
 class AnalyserGeneratorTests(unittest.TestCase):
+    generator = Generator()
+    analyser = Analyser()
 
     def setUp(self):
-        self.csvfile = open('data.tsv')
-        fsa = '../malayalam.a'
-        dialect = csv.Sniffer().sniff(self.csvfile.read(1024))
-        # rewind
-        self.csvfile.seek(0)
-        self.data = csv.reader(self.csvfile, dialect)
-        self.mlmorph = Mlmorph(fsa)
+        self.testFile = open(os.path.join(CURR_DIR, 'tests.json'))
+        self.tests = json.load(self.testFile, object_hook=Struct)
 
     def tearDown(self):
-        self.csvfile.close()
+        self.testFile.close()
 
     def test_analyse(self):
-        for row in self.data:
-            with self.subTest():
-                anals = self.mlmorph.analyse(row[0])
+        print('\t**** Analyse tests ****\t')
+        line = 0
+        for test in self.tests:
+            line += 1
+            with self.subTest(test.word):
+                anals = self.analyser.analyse(test.word)
                 match = False
-                self.assertTrue(len(anals) != 0,
-                                'Analysis failed for ' + row[0])
-                print(row[0], '\t-->\t', anals)
+                if not (hasattr(test, 'skip') and test.skip):
+                    self.assertTrue(len(anals) != 0,
+                                    'Analysis failed for ' + test.word)
+                else:
+                    continue
+                print('%3d %s\t<--\t%s' % (line, test.word, anals))
                 for index in range(len(anals)):
-                    if row[1] == anals[index][0]:
+                    if test.analysis == anals[index][0]:
                         match = True
                         break
-                self.assertEqual(match, True, 'Analysis for ' + row[1])
+                if not (hasattr(test, 'skip') and test.skip):
+                    self.assertEqual(
+                        match, True, 'Analysis for ' + test.analysis)
 
     def test_generate(self):
-        for row in self.data:
-            with self.subTest():
+        print('\t**** Generate tests ****\t')
+        line = 0
+        for test in self.tests:
+            line += 1
+            with self.subTest(test.word):
                 match = False
-                gens = self.mlmorph.generate(row[1])
-                self.assertTrue(
-                    len(gens) != 0, 'Generate failed for ' + row[1])
-                print(row[1], '\t<--\t', gens)
+                gens = self.generator.generate(test.analysis, True)
+                if not (hasattr(test, 'skip') and test.skip):
+                    self.assertTrue(
+                        len(gens) != 0, 'Generate failed for ' + test.analysis)
+                else:
+                    continue
+                print('%3d %s\t<--\t%s' % (line, test.analysis, gens))
                 for index in range(len(gens)):
-                    if row[0] == gens[index][0]:
+                    if test.word == gens[index][0]:
                         match = True
                         break
-                self.assertEqual(match, True, 'Generate for ' + row[1])
+                if not (hasattr(test, 'skip') and test.skip):
+                    self.assertEqual(
+                        match, True, 'Generate for ' + test.analysis)
 
 if __name__ == '__main__':
     unittest.main()

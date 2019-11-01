@@ -1,4 +1,8 @@
 *.a
 *.pdf
 *.dot
-*.txt
+python/mlmorph/data/*.a
+scripts/lexicon/*.json
+*.egg-info/
+__pycache__/
+ENV_DIR

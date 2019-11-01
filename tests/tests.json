@@ -1,0 +1,1796 @@
+[
+    {
+        "word": "നീലത്താമര",
+        "analysis": "നീല<n><adj>താമര<n>"
+    },
+    {
+        "word": "ആൽത്തറ",
+        "analysis": "ആൽ<n><adj>തറ<n>"
+    },
+    {
+        "word": "ആൽത്തറകൾ",
+        "analysis": "ആൽ<n><adj>തറ<n><pl>"
+    },
+    {
+        "word": "ആനകൾ",
+        "analysis": "ആന<n><pl>"
+    },
+    {
+        "word": "ആനയെ",
+        "analysis": "ആന<n><accusative>"
+    },
+    {
+        "word": "ആനയാൽ",
+        "analysis": "ആന<n><instrumental>"
+    },
+    {
+        "word": "ആനകൊണ്ട്",
+        "analysis": "ആന<n><instrumental>"
+    },
+    {
+        "word": "ആനയെക്കൊണ്ട്",
+        "analysis": "ആന<n><accusative>കൊണ്ട്<cnj>"
+    },
+    {
+        "word": "ഇലയിൽ",
+        "analysis": "ഇല<n><locative>"
+    },
+    {
+        "word": "മരത്തേൽ",
+        "analysis": "മരം<n><locative>"
+    },
+    {
+        "word": "പൂച്ചയുടെ",
+        "analysis": "പൂച്ച<n><genitive>"
+    },
+    {
+        "word": "ആനയുടെ",
+        "analysis": "ആന<n><genitive>"
+    },
+    {
+        "word": "പേരിന്റെ",
+        "analysis": "പേര്<n><genitive>"
+    },
+    {
+        "word": "മഴയ്ക്ക്",
+        "analysis": "മഴ<n><dative>"
+    },
+    {
+        "word": "മഴയ്ക്കു്",
+        "analysis": "മഴ<n><dative>"
+    },
+    {
+        "word": "കുട്ടികൾക്ക്",
+        "analysis": "കുട്ടി<n><pl><dative>"
+    },
+    {
+        "word": "കാടിന്",
+        "analysis": "കാട്<n><dative>"
+    },
+    {
+        "word": "കടലിനെ",
+        "analysis": "കടൽ<n><accusative>"
+    },
+    {
+        "word": "ആടിനെ",
+        "analysis": "ആട്<n><accusative>"
+    },
+    {
+        "word": "പുലിയെ",
+        "analysis": "പുലി<n><accusative>"
+    },
+    {
+        "word": "മരത്തെ",
+        "analysis": "മരം<n><accusative>"
+    },
+    {
+        "word": "വടിയാൽ",
+        "analysis": "വടി<n><instrumental>"
+    },
+    {
+        "word": "വടികൊണ്ട്",
+        "analysis": "വടി<n><instrumental>"
+    },
+    {
+        "word": "വടികൾക്കൊണ്ട്",
+        "analysis": "വടി<n><pl>കൊണ്ട്<cnj>"
+    },
+    {
+        "word": "മലർപ്പൊടി",
+        "analysis": "മലർ<n><adj>പൊടി<n>"
+    },
+    {
+        "word": "പാൽക്കടൽ",
+        "analysis": "പാൽ<n><adj>കടൽ<n>"
+    },
+    {
+        "word": "അട്ടപ്പാടിയിൽ",
+        "analysis": "അട്ടപ്പാടി<np><locative>"
+    },
+    {
+        "word": "മരങ്ങൾ",
+        "analysis": "മരം<n><pl>"
+    },
+    {
+        "word": "കാടുകൾ",
+        "analysis": "കാട്<n><pl>"
+    },
+    {
+        "word": "നടുവിൽ",
+        "analysis": "നടു<n><locative>"
+    },
+    {
+        "word": "മുറ്റത്തിൽ",
+        "analysis": "മുറ്റം<n><locative>"
+    },
+    {
+        "word": "നിലാവത്ത്",
+        "analysis": "നിലാവ്<n><locative>"
+    },
+    {
+        "word": "തോളത്ത്",
+        "analysis": "തോൾ<n><locative>"
+    },
+    {
+        "word": "മൂക്കത്ത്",
+        "analysis": "മൂക്ക്<n><locative>"
+    },
+    {
+        "word": "അദ്ദേഹത്തിന്റെ",
+        "analysis": "അദ്ദേഹം<prn><genitive>"
+    },
+    {
+        "word": "കേരളത്തിൽ",
+        "analysis": "കേരളം<np><locative>"
+    },
+    {
+        "word": "കേരളത്തിങ്കൽ",
+        "analysis": "കേരളം<np><locative>"
+    },
+    {
+        "word": "കേരളത്തിലെ",
+        "analysis": "കേരളം<np><locative>എ<indeclinable>"
+    },
+    {
+        "word": "മുറ്റത്തിനെ",
+        "analysis": "മുറ്റം<n><accusative>"
+    },
+    {
+        "word": "ആടിക്കൊണ്ടിരിക്കും",
+        "analysis": "ആടുക<v><iterative-future-aspect>"
+    },
+    {
+        "word": "ആടിക്കൊണ്ടിരിക്കുക",
+        "analysis": "ആടുക<v><iterative-aspect>"
+    },
+    {
+        "word": "ആടിക്കൊണ്ടിരിക്കുന്നു",
+        "analysis": "ആടുക<v><iterative-present-aspect>"
+    },
+    {
+        "word": "മുറ്റത്തെ",
+        "analysis": "മുറ്റം<n><accusative>"
+    },
+    {
+        "word": "കേരളത്തിനു്",
+        "analysis": "കേരളം<np><dative>"
+    },
+    {
+        "word": "അവലിന്",
+        "analysis": "അവൽ<n><dative>"
+    },
+    {
+        "word": "കാലന്",
+        "analysis": "കാലൻ<n><dative>"
+    },
+    {
+        "word": "തൂണിന്",
+        "analysis": "തൂൺ<n><dative>"
+    },
+    {
+        "word": "കാറിന്",
+        "analysis": "കാറ്<n><dative>"
+    },
+    {
+        "word": "കാറിന്",
+        "analysis": "കാർ<eng><dative>"
+    },
+    {
+        "word": "കാറിനു്",
+        "analysis": "കാർ<eng><dative>"
+    },
+    {
+        "word": "കയറിനു്",
+        "analysis": "കയർ<n><dative>"
+    },
+    {
+        "word": "കയറിന്",
+        "analysis": "കയർ<n><dative>"
+    },
+    {
+        "word": "കള്ളൻമാർക്ക്",
+        "analysis": "കള്ളൻ<n><pl><dative>"
+    },
+    {
+        "word": "നിങ്ങൾക്ക്",
+        "analysis": "നീ<prn><pl><dative>"
+    },
+    {
+        "word": "അറിയിച്ചു",
+        "analysis": "അറിയിക്കുക<v><past>"
+    },
+    {
+        "word": "കരഞ്ഞു",
+        "analysis": "കരയുക<v><past>"
+    },
+    {
+        "word": "അടുത്തു",
+        "analysis": "അടുക്കുക<v><past>"
+    },
+    {
+        "word": "ഉഴന്നു",
+        "analysis": "ഉഴലുക<v><past>"
+    },
+    {
+        "word": "പാടി",
+        "analysis": "പാടുക<v><past>"
+    },
+    {
+        "word": "കൂടിച്ചേരും",
+        "analysis": "കൂടുക<v><cvb-adv-part-past>ചേരുക<v><future>"
+    },
+    {
+        "word": "പാടിത്തകർക്കും",
+        "analysis": "പാടുക<v><cvb-adv-part-past>തകർക്കുക<v><future>"
+    },
+    {
+        "word": "തെറ്റി",
+        "analysis": "തെറ്റുക<v><past>"
+    },
+    {
+        "word": "വീണു",
+        "analysis": "വീഴുക<v><past>"
+    },
+    {
+        "word": "പോയിവരും",
+        "analysis": "പോകുക<v><cvb-adv-part-past>വരുക<v><future>"
+    },
+    {
+        "word": "ചത്തു",
+        "analysis": "ചാവുക<v><past>"
+    },
+    {
+        "word": "വളർന്നു",
+        "analysis": "വളരുക<v><past>"
+    },
+    {
+        "word": "ഇരുന്നു",
+        "analysis": "ഇരിക്കുക<v><past>"
+    },
+    {
+        "word": "ഓടിത്തളർന്നു",
+        "analysis": "ഓടുക<v><cvb-adv-part-past>തളരുക<v><past>"
+    },
+    {
+        "word": "കടലിങ്കൽ",
+        "analysis": "കടൽ<n><locative>"
+    },
+    {
+        "word": "കടലിൽ",
+        "analysis": "കടൽ<n><locative>"
+    },
+    {
+        "word": "കല്ലിൽ",
+        "analysis": "കല്ല്<n><locative>"
+    },
+    {
+        "word": "കാട്ടിങ്ങൽ",
+        "analysis": "കാട്<n><locative>"
+    },
+    {
+        "word": "കാട്ടിൽ",
+        "analysis": "കാട്<n><locative>"
+    },
+    {
+        "word": "തോട്ടിങ്കൽ",
+        "analysis": "തോട്<n><locative>"
+    },
+    {
+        "word": "തോട്ടിങ്ങൽ",
+        "analysis": "തോട്<n><locative>"
+    },
+    {
+        "word": "തോട്ടിൽ",
+        "analysis": "തോട്<n><locative>"
+    },
+    {
+        "word": "തോട്ടിലേയ്ക്ക്",
+        "analysis": "തോട്<n><allative>"
+    },
+    {
+        "word": "തോട്ടിലോട്ട്",
+        "analysis": "തോട്<n><allative>"
+    },
+    {
+        "word": "മരത്തിലേയ്ക്ക്",
+        "analysis": "മരം<n><allative>"
+    },
+    {
+        "word": "കൂട്ടിലോട്ട്",
+        "analysis": "കൂട്ട്<n><allative>"
+    },
+    {
+        "word": "എന്നെ",
+        "analysis": "ഞാൻ<prn><accusative>"
+    },
+    {
+        "word": "തന്നെ",
+        "analysis": "താൻ<prn><accusative>"
+    },
+    {
+        "word": "നമ്മെ",
+        "analysis": "നാം<prn><accusative>"
+    },
+    {
+        "word": "തേവരുടെ",
+        "analysis": "തേവർ<n><genitive>"
+    },
+    {
+        "word": "അണുവിന്റെ",
+        "analysis": "അണു<sanskrit><genitive>"
+    },
+    {
+        "word": "അവനുടെ",
+        "analysis": "അവൻ<prn><genitive>"
+    },
+    {
+        "word": "അവരിന്റെ",
+        "analysis": "അവർ<prn><genitive>"
+    },
+    {
+        "word": "അവരുടെ",
+        "analysis": "അവർ<prn><genitive>"
+    },
+    {
+        "word": "എന്റെ",
+        "analysis": "ഞാൻ<prn><genitive>"
+    },
+    {
+        "word": "ഞങ്ങളുടെ",
+        "analysis": "ഞാൻ<prn><pl><genitive>"
+    },
+    {
+        "word": "തന്നുടെ",
+        "analysis": "താൻ<prn><genitive>"
+    },
+    {
+        "word": "തന്റെ",
+        "analysis": "താൻ<prn><genitive>"
+    },
+    {
+        "word": "ഓടിക്കയറി",
+        "analysis": "ഓടുക<v><cvb-adv-part-past>കയറുക<v><past>"
+    },
+    {
+        "word": "പൊട്ടിച്ചിരിക്കും",
+        "analysis": "പൊട്ടുക<v><cvb-adv-part-past>ചിരിക്കുക<v><future>"
+    },
+    {
+        "word": "സഹിക്കാൻ",
+        "analysis": "സഹിക്കുക<v><cvb-adv-part-future>"
+    },
+    {
+        "word": "പാടാൻ",
+        "analysis": "പാടുക<v><cvb-adv-part-future>"
+    },
+    {
+        "word": "ചിരിക്ക",
+        "analysis": "ചിരിക്കുക<v><cvb-adv-part-absolute>"
+    },
+    {
+        "word": "സഹിക്കിൽ",
+        "analysis": "സഹിക്കുക<v><cvb-adv-part-conditional>"
+    },
+    {
+        "word": "ചെടിയേ",
+        "analysis": "ചെടി<n><vocative>"
+    },
+    {
+        "word": "മരമേ",
+        "analysis": "മരം<n><vocative>"
+    },
+    {
+        "word": "ഇതളുകൾ",
+        "analysis": "ഇതൾ<n><pl>"
+    },
+    {
+        "word": "കാലുകൾ",
+        "analysis": "കാല്<n><pl>"
+    },
+    {
+        "word": "പയറുകൾ",
+        "analysis": "പയറ്<n><pl>"
+    },
+    {
+        "word": "മഴകളിൽ",
+        "analysis": "മഴ<n><pl><locative>"
+    },
+    {
+        "word": "എങ്ങനെ",
+        "analysis": "എങ്ങനെ<qn>"
+    },
+    {
+        "word": "കടലുമാണ്",
+        "analysis": "കടൽ<n>ഉം<cnj>ആണ്<aff>"
+    },
+    {
+        "word": "തിരുവനന്തപുരമാണ്",
+        "analysis": "തിരുവനന്തപുരം<np>ആണ്<aff>"
+    },
+    {
+        "word": "തിരുവനന്തപുരവുമാണ്",
+        "analysis": "തിരുവനന്തപുരം<np>ഉം<cnj>ആണ്<aff>"
+    },
+    {
+        "word": "ലൈക്ക്",
+        "analysis": "ലൈക്ക്<eng>"
+    },
+    {
+        "word": "ട്രെയിൻ",
+        "analysis": "ട്രെയിൻ<eng>"
+    },
+    {
+        "word": "ചെയ്തു",
+        "analysis": "ചെയ്യുക<v><past>"
+    },
+    {
+        "word": "ചെയ്യാൻ",
+        "analysis": "ചെയ്യുക<v><cvb-adv-part-future>"
+    },
+    {
+        "word": "ചെയ്യയാകിൽ",
+        "analysis": "ചെയ്യുക<v><cvb-adv-part-conditional>"
+    },
+    {
+        "word": "ചെയ്യയാൽ",
+        "analysis": "ചെയ്യുക<v><cvb-adv-part-conditional>"
+    },
+    {
+        "word": "ചെയ്യിൽ",
+        "analysis": "ചെയ്യുക<v><cvb-adv-part-conditional>"
+    },
+    {
+        "word": "ചെയ്യൽ",
+        "analysis": "ചെയ്യുക<v><cvb-adv-part-absolute>"
+    },
+    {
+        "word": "കുളിച്ച്",
+        "analysis": "കുളിക്കുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "കുളിച്ചു്",
+        "analysis": "കുളിക്കുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "കരഞ്ഞ്",
+        "analysis": "കരയുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "വിടർന്ന്",
+        "analysis": "വിടരുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "മലർന്ന്",
+        "analysis": "മലരുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "കിടന്ന്",
+        "analysis": "കിടക്കുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "കിടന്നാലും",
+        "analysis": "കിടക്കുക<v><concessive>"
+    },
+    {
+        "word": "ഇളകി",
+        "analysis": "ഇളകുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "കേരളമേ",
+        "analysis": "കേരളം<np>ഏ<indeclinable>"
+    },
+    {
+        "word": "കേരളത്തേ",
+        "analysis": "കേരളം<np>ഏ<indeclinable>",
+        "skip": true
+    },
+    {
+        "word": "മാലയൊ",
+        "analysis": "മാല<n>ഒ<interrogative><indeclinable>"
+    },
+    {
+        "word": "ഓടുകയോ",
+        "analysis": "ഓടുക<v>ഓ<interrogative><indeclinable>"
+    },
+    {
+        "word": "കടലിലോ",
+        "analysis": "കടൽ<n><locative>ഓ<interrogative><indeclinable>"
+    },
+    {
+        "word": "മാലയെയോ",
+        "analysis": "മാല<n><accusative>ഓ<interrogative><indeclinable>"
+    },
+    {
+        "word": "കേരളത്തിലോ",
+        "analysis": "കേരളം<np><locative>ഓ<interrogative><indeclinable>"
+    },
+    {
+        "word": "കേരളത്തിങ്കലോ",
+        "analysis": "കേരളം<np><locative>ഓ<interrogative><indeclinable>"
+    },
+    {
+        "word": "ഓടിയില്ല",
+        "analysis": "ഓടുക<v><past>ഇല്ല<neg>"
+    },
+    {
+        "word": "ഓടുകയില്ല",
+        "analysis": "ഓടുക<v>ഇല്ല<neg>"
+    },
+    {
+        "word": "കണ്ടു",
+        "analysis": "കാണുക<v><past>"
+    },
+    {
+        "word": "കണ്ടില്ല",
+        "analysis": "കാണുക<v><past>ഇല്ല<neg>"
+    },
+    {
+        "word": "തൊഴുതു",
+        "analysis": "തൊഴുക<v><past>"
+    },
+    {
+        "word": "കിട്ടാൻ",
+        "analysis": "കിട്ടുക<v><cvb-adv-part-future>"
+    },
+    {
+        "word": "പാടുകയാണ്",
+        "analysis": "പാടുക<v>ആണ്<aff>"
+    },
+    {
+        "word": "പോകുകയരുത്",
+        "analysis": "പോകുക<v>അരുത്<neg>"
+    },
+    {
+        "word": "പോകരുത്",
+        "analysis": "പോകുക<v>അരുത്<neg>",
+        "skip": true
+    },
+    {
+        "word": "പോകുകയല്ല",
+        "analysis": "പോകുക<v>അല്ല<neg>"
+    },
+    {
+        "word": "പോകുകയാണ്",
+        "analysis": "പോകുക<v>ആണ്<aff>"
+    },
+    {
+        "word": "കേരളത്തിലരുത്",
+        "analysis": "കേരളം<np><locative>അരുത്<neg>"
+    },
+    {
+        "word": "ഡിജിറ്റൈസേഷൻ",
+        "analysis": "ഡിജിറ്റൈസേഷൻ<eng>"
+    },
+    {
+        "word": "സാധിക്കുമോ?",
+        "analysis": "സാധിക്കുക<v><future>ഓ<interrogative><indeclinable>?<punct>"
+    },
+    {
+        "word": "പാലക്കാടല്ല",
+        "analysis": "പാലക്കാട്<np>അല്ല<neg>"
+    },
+    {
+        "word": "സന്തോഷമില്ല",
+        "analysis": "സന്തോഷം<n>ഇല്ല<neg>"
+    },
+    {
+        "word": "സന്തോഷില്ല",
+        "analysis": "സന്തോഷ്<np>ഇല്ല<neg>"
+    },
+    {
+        "word": "കുളങ്ങളിലരുത്",
+        "analysis": "കുളം<n><pl><locative>അരുത്<neg>"
+    },
+    {
+        "word": "മലകളുടെയല്ല",
+        "analysis": "മലകൾ<np><genitive>അല്ല<neg>"
+    },
+    {
+        "word": "കുട്ടികളെയരുത്",
+        "analysis": "കുട്ടി<n><pl><accusative>അരുത്<neg>"
+    },
+    {
+        "word": "കുട്ടികളെയരുതു്",
+        "analysis": "കുട്ടി<n><pl><accusative>അരുതു്<neg>"
+    },
+    {
+        "word": "കുളങ്ങളെ",
+        "analysis": "കുളം<n><pl><accusative>"
+    },
+    {
+        "word": "ഞങ്ങളെ",
+        "analysis": "ഞാൻ<prn><pl><accusative>"
+    },
+    {
+        "word": "ഞങ്ങളെയരുത്",
+        "analysis": "ഞാൻ<prn><pl><accusative>അരുത്<neg>"
+    },
+    {
+        "word": "കുളങ്ങളുടെ",
+        "analysis": "കുളം<n><pl><genitive>"
+    },
+    {
+        "word": "അവന്റെ",
+        "analysis": "അവൻ<prn><genitive>"
+    },
+    {
+        "word": "തൊണ്ണൂറ്റിമൂന്ന്",
+        "analysis": "ഒമ്പത്<tens>മൂന്ന്<ones><cardinal>"
+    },
+    {
+        "word": "തൊണ്ണൂറ്റിയഞ്ച്",
+        "analysis": "ഒമ്പത്<tens>അഞ്ച്<ones><cardinal>"
+    },
+    {
+        "word": "പതിനൊന്ന്",
+        "analysis": "ഒന്ന്<tens>ഒന്ന്<ones><cardinal>"
+    },
+    {
+        "word": "പന്ത്രണ്ട്",
+        "analysis": "ഒന്ന്<tens>രണ്ട്<ones><cardinal>"
+    },
+    {
+        "word": "മുപ്പത്തിനാല്",
+        "analysis": "മൂന്ന്<tens>നാല്<ones><cardinal>"
+    },
+    {
+        "word": "മുപ്പത്തിയഞ്ച്",
+        "analysis": "മൂന്ന്<tens>അഞ്ച്<ones><cardinal>"
+    },
+    {
+        "word": "മുപ്പത്തിയാറ്",
+        "analysis": "മൂന്ന്<tens>ആറ്<ones><cardinal>"
+    },
+    {
+        "word": "എഴുപതര",
+        "analysis": "ഏഴ്<tens>അര<half><cardinal>"
+    },
+    {
+        "word": "എഴുപത്",
+        "analysis": "ഏഴ്<tens><cardinal>"
+    },
+    {
+        "word": "എഴുപത്തിനാല്",
+        "analysis": "ഏഴ്<tens>നാല്<ones><cardinal>"
+    },
+    {
+        "word": "എഴുപത്തിയൊന്ന്",
+        "analysis": "ഏഴ്<tens>ഒന്ന്<ones><cardinal>"
+    },
+    {
+        "word": "എഴുപത്തൊന്ന്",
+        "analysis": "ഏഴ്<tens>ഒന്ന്<ones><cardinal>"
+    },
+    {
+        "word": "അറുപത്തിനാല്",
+        "analysis": "ആറ്<tens>നാല്<ones><cardinal>"
+    },
+    {
+        "word": "നാനൂറ്റിപ്പതിനാല്",
+        "analysis": "നാല്<hundreds>ഒന്ന്<tens>നാല്<ones><cardinal>"
+    },
+    {
+        "word": "മുന്നൂറ്റിപ്പത്ത്",
+        "analysis": "മൂന്ന്<hundreds>ഒന്ന്<tens><cardinal>"
+    },
+    {
+        "word": "തൊണ്ണൂറ്റിയൊമ്പത്",
+        "analysis": "ഒമ്പത്<tens>ഒമ്പത്<ones><cardinal>"
+    },
+    {
+        "word": "തൊള്ളായിരത്തിത്തൊണ്ണൂറ്റിയൊമ്പത്",
+        "analysis": "ഒമ്പത്<hundreds>ഒമ്പത്<tens>ഒമ്പത്<ones><cardinal>"
+    },
+    {
+        "word": "ആയിരത്തിത്തൊള്ളായിരത്തിത്തൊണ്ണൂറ്റിയൊമ്പത്",
+        "analysis": "<thousands>ഒമ്പത്<hundreds>ഒമ്പത്<tens>ഒമ്പത്<ones><cardinal>"
+    },
+    {
+        "word": "ഏഴായിരത്തിനാനൂറ്റിമുപ്പത്തിനാല്",
+        "analysis": "ഏഴ്<ones><thousands>നാല്<hundreds>മൂന്ന്<tens>നാല്<ones><cardinal>"
+    },
+    {
+        "word": "അയ്യായിരത്തിയിരുനൂറ്റിയെൺപത്തിരണ്ടര",
+        "analysis": "അഞ്ച്<thousands>രണ്ട്<hundreds>എട്ട്<tens>രണ്ട്<ones>അര<half><cardinal>"
+    },
+    {
+        "word": "പത്തുലക്ഷം",
+        "analysis": "ഒന്ന്<tens><lakhs><cardinal>"
+    },
+    {
+        "word": "രണ്ടുലക്ഷത്തിയൊന്ന്",
+        "analysis": "രണ്ട്<ones><lakhs>ഒന്ന്<ones><cardinal>"
+    },
+    {
+        "word": "പത്തുലക്ഷത്തിയഞ്ചായിരത്തിയിരുനൂറ്റിയെൺപത്തിരണ്ടര",
+        "analysis": "ഒന്ന്<tens><lakhs>അഞ്ച്<ones><thousands>രണ്ട്<hundreds>എട്ട്<tens>രണ്ട്<ones>അര<half><cardinal>"
+    },
+    {
+        "word": "പത്തുലക്ഷംകോടിപ്പത്തുലക്ഷത്തിയഞ്ചായിരത്തിയിരുനൂറ്റിയെൺപത്തിരണ്ടര",
+        "analysis": "ഒന്ന്<tens><lakhs><crores>ഒന്ന്<tens><lakhs>അഞ്ച്<ones><thousands>രണ്ട്<hundreds>എട്ട്<tens>രണ്ട്<ones>അര<half><cardinal>"
+    },
+    {
+        "word": "നാലാം",
+        "analysis": "നാല്<ones><cardinal><ordinal>"
+    },
+    {
+        "word": "നൂറാമതു്",
+        "analysis": "ഒന്ന്<hundreds><cardinal><ordinal>"
+    },
+    {
+        "word": "പത്താമത്തെ",
+        "analysis": "ഒന്ന്<tens><cardinal><ordinal>"
+    },
+    {
+        "word": "പത്തൊമ്പതാം",
+        "analysis": "ഒന്ന്<tens>ഒമ്പത്<ones><cardinal><ordinal>"
+    },
+    {
+        "word": "പതിനായിരത്തിയൊന്നാമത്",
+        "analysis": "ഒന്ന്<tens><thousands>ഒന്ന്<ones><cardinal><ordinal>"
+    },
+    {
+        "word": "പതിനൊന്ന്",
+        "analysis": "ഒന്ന്<tens>ഒന്ന്<ones><cardinal>"
+    },
+    {
+        "word": "പതിനൊന്നര",
+        "analysis": "ഒന്ന്<tens>ഒന്ന്<ones>അര<half><cardinal>"
+    },
+    {
+        "word": "അറുപത്",
+        "analysis": "ആറ്<tens><cardinal>"
+    },
+    {
+        "word": "ഇരുനൂറ്റെട്ട്",
+        "analysis": "രണ്ട്<hundreds>എട്ട്<ones><cardinal>"
+    },
+    {
+        "word": "ഇരുപത്തെട്ടായിരം",
+        "analysis": "രണ്ട്<tens>എട്ട്<ones><thousands><cardinal>"
+    },
+    {
+        "word": "തൊണ്ണൂറായിരത്തിരുനൂറ്",
+        "analysis": "ഒമ്പത്<tens><thousands>രണ്ട്<hundreds><cardinal>"
+    },
+    {
+        "word": "പത്തായിരത്തൊമ്പത്",
+        "analysis": "ഒന്ന്<tens><thousands>ഒമ്പത്<ones><cardinal>"
+    },
+    {
+        "word": "ഒമ്പതിന്",
+        "analysis": "ഒമ്പത്<ones><cardinal><dative>"
+    },
+    {
+        "word": "പതിമൂന്നിൽ",
+        "analysis": "ഒന്ന്<tens>മൂന്ന്<ones><cardinal><locative>"
+    },
+    {
+        "word": "പത്തിൽ",
+        "analysis": "ഒന്ന്<tens><cardinal><locative>"
+    },
+    {
+        "word": "ആയിരമേ",
+        "analysis": "<thousands><cardinal><vocative>"
+    },
+    {
+        "word": "എട്ടേ",
+        "analysis": "എട്ട്<ones><cardinal><vocative>"
+    },
+    {
+        "word": "പത്തേ",
+        "analysis": "ഒന്ന്<tens><cardinal><vocative>"
+    },
+    {
+        "word": "വീടേ",
+        "analysis": "വീട്<n><vocative>"
+    },
+    {
+        "word": "ലക്ഷത്തിൽ",
+        "analysis": "<lakhs><cardinal><locative>"
+    },
+    {
+        "word": "ആറിനെ",
+        "analysis": "ആറ്<ones><cardinal><accusative>"
+    },
+    {
+        "word": "എട്ടോട്",
+        "analysis": "എട്ട്<ones><cardinal><sociative>"
+    },
+    {
+        "word": "എട്ടിനോട്",
+        "analysis": "എട്ട്<ones><cardinal><sociative>"
+    },
+    {
+        "word": "മുട്ടിനോട്",
+        "analysis": "മുട്ട്<n><sociative>"
+    },
+    {
+        "word": "വീടിനോടു്",
+        "analysis": "വീട്<n><sociative>"
+    },
+    {
+        "word": "ആയിരങ്ങൾ",
+        "analysis": "<thousands><cardinal><pl>"
+    },
+    {
+        "word": "സെബിന്റെ",
+        "analysis": "സെബിൻ<np><genitive>"
+    },
+    {
+        "word": "സെബിനുടെ",
+        "analysis": "സെബിൻ<np><genitive>"
+    },
+    {
+        "word": "കരാറിന്റെ",
+        "analysis": "കരാർ<n><genitive>"
+    },
+    {
+        "word": "തൃശ്ശൂരിന്റെ",
+        "analysis": "തൃശ്ശൂർ<np><genitive>"
+    },
+    {
+        "word": "തൃശ്ശൂറിന്റെ",
+        "analysis": "തൃശ്ശൂർ<np><genitive>"
+    },
+    {
+        "word": "തീരവും",
+        "analysis": "തീരം<n>ഉം<cnj>"
+    },
+    {
+        "word": "കോശവും",
+        "analysis": "കോശം<n>ഉം<cnj>"
+    },
+    {
+        "word": "കുട്ടികൾക്കായി",
+        "analysis": "കുട്ടി<n><pl><dative>ആയി<cnj>"
+    },
+    {
+        "word": "കുട്ടികൾക്ക്",
+        "analysis": "കുട്ടി<n><pl><dative>"
+    },
+    {
+        "word": "കേരളത്തിനാണ്",
+        "analysis": "കേരളം<np><dative>ആണ്<aff>"
+    },
+    {
+        "word": "കേരളത്തിനെപ്പോലെ",
+        "analysis": "കേരളം<np><accusative>പോലെ<cnj>"
+    },
+    {
+        "word": "കേരളത്തിനെയാണ്",
+        "analysis": "കേരളം<np><accusative>ആണ്<aff>"
+    },
+    {
+        "word": "കേരളത്തിന്",
+        "analysis": "കേരളം<np><dative>"
+    },
+    {
+        "word": "കേരളത്തെ",
+        "analysis": "കേരളം<np><accusative>"
+    },
+    {
+        "word": "കേരളവുമാണ്",
+        "analysis": "കേരളം<np>ഉം<cnj>ആണ്<aff>"
+    },
+    {
+        "word": "ആടി",
+        "analysis": "ആടുക<v><past>"
+    },
+    {
+        "word": "കോലവുമാടി",
+        "analysis": "കോലം<n>ഉം<cnj>ആടുക<v><past>",
+        "skip": true
+    },
+    {
+        "word": "കാറ്റിനോടായി",
+        "analysis": "കാറ്റ്<n><sociative>ആയി<cnj>"
+    },
+    {
+        "word": "കിളിയോടായി",
+        "analysis": "കിളി<n><sociative>ആയി<cnj>"
+    },
+    {
+        "word": "കിളികളോടായി",
+        "analysis": "കിളി<n><pl><sociative>ആയി<cnj>"
+    },
+    {
+        "word": "പശുക്കളോടായി",
+        "analysis": "പശു<n><pl><sociative>ആയി<cnj>"
+    },
+    {
+        "word": "പൂക്കൾ",
+        "analysis": "പൂ<n><pl>"
+    },
+    {
+        "word": "നിഘണ്ടുക്കൾ",
+        "analysis": "നിഘണ്ടു<n><pl>"
+    },
+    {
+        "word": "കാട്ടുപന്നി",
+        "analysis": "കാട്<n><adj>പന്നി<n>"
+    },
+    {
+        "word": "വീട്ടുമൃഗം",
+        "analysis": "വീട്<n><adj>മൃഗം<n>"
+    },
+    {
+        "word": "നാട്ടുവെളിച്ചം",
+        "analysis": "നാട്<n><adj>വെളിച്ചം<n>"
+    },
+    {
+        "word": "ഉറക്കം",
+        "analysis": "ഉറങ്ങുക<v><n><deriv>"
+    },
+    {
+        "word": "കറക്കം",
+        "analysis": "കറങ്ങുക<v><n><deriv>"
+    },
+    {
+        "word": "പറക്കൽ",
+        "analysis": "പറക്കുക<v><n><deriv>"
+    },
+    {
+        "word": "ഇരിക്കൽ",
+        "analysis": "ഇരിക്കുക<v><n><deriv>"
+    },
+    {
+        "word": "ചിരിക്കൽ",
+        "analysis": "ചിരിക്കുക<v><n><deriv>"
+    },
+    {
+        "word": "മറിയൽ",
+        "analysis": "മറിയുക<v><n><deriv>"
+    },
+    {
+        "word": "എരിവ്",
+        "analysis": "എരിയുക<v><n><deriv>"
+    },
+    {
+        "word": "ഒടിവ്",
+        "analysis": "ഒടിയുക<v><n><deriv>"
+    },
+    {
+        "word": "പഠിത്തം",
+        "analysis": "പഠിക്കുക<v><n><deriv>"
+    },
+    {
+        "word": "തുടക്കം",
+        "analysis": "തുടങ്ങുക<v><n><deriv>"
+    },
+    {
+        "word": "മയക്കം",
+        "analysis": "മയങ്ങുക<v><n><deriv>"
+    },
+    {
+        "word": "മയങ്ങൽ",
+        "analysis": "മയങ്ങുക<v><n><deriv>"
+    },
+    {
+        "word": "തുടങ്ങൽ",
+        "analysis": "തുടങ്ങുക<v><n><deriv>"
+    },
+    {
+        "word": "പറച്ചിൽ",
+        "analysis": "പറയുക<v><n><deriv>"
+    },
+    {
+        "word": "മേച്ചിൽ",
+        "analysis": "മേയുക<v><n><deriv>"
+    },
+    {
+        "word": "തടവ്",
+        "analysis": "തടയുക<v><n><deriv>"
+    },
+    {
+        "word": "തടവൽ",
+        "analysis": "തടവുക<v><n><deriv>"
+    },
+    {
+        "word": "മാന്തൽ",
+        "analysis": "മാന്തുക<v><n><deriv>"
+    },
+    {
+        "word": "കയറ്റം",
+        "analysis": "കയറുക<v><n><deriv>"
+    },
+    {
+        "word": "തുടർച്ച",
+        "analysis": "തുടരുക<v><n><deriv>"
+    },
+    {
+        "word": "വീഴ്ചയിൽ",
+        "analysis": "വീഴുക<v><n><deriv><locative>"
+    },
+    {
+        "word": "താഴ്ചയിൽ",
+        "analysis": "താഴുക<v><n><deriv><locative>"
+    },
+    {
+        "word": "പാൽക്കാരി",
+        "analysis": "പാൽ<n><feminine><n><deriv>"
+    },
+    {
+        "word": "പണക്കാരി",
+        "analysis": "പണം<n><feminine><n><deriv>"
+    },
+    {
+        "word": "തുഴക്കാരൻ",
+        "analysis": "തുഴ<n><masculine><n><deriv>"
+    },
+    {
+        "word": "മടിയൻ",
+        "analysis": "മടി<n><masculine><n><deriv>"
+    },
+    {
+        "word": "തുഴക്കാർ",
+        "analysis": "തുഴ<n><neutral><n><deriv>"
+    },
+    {
+        "word": "പണക്കാരുടെ",
+        "analysis": "പണം<n><neutral><n><deriv><genitive>"
+    },
+    {
+        "word": "മലപ്പുറത്ത്",
+        "analysis": "മലപ്പുറം<np><locative>"
+    },
+    {
+        "word": "കരിമ്പുലി",
+        "analysis": "കരി<n><adj>പുലി<n>",
+        "comment": "അനുനാസികാദേശം. പ്പ -> മ്പ",
+        "skip": true
+    },
+    {
+        "word": "പുളിങ്കുരു",
+        "analysis": "പുളി<n><adj>കുരു<n>",
+        "comment": "അനുനാസികാദേശം. ക്ക -> ങ്ക",
+        "skip": true
+    },
+    {
+        "word": "മരപ്പൊത്ത്",
+        "analysis": "മരം<n><adj>പൊത്ത്<n>"
+    },
+    {
+        "word": "മരമ്പൊത്ത്",
+        "analysis": "മരം<n><adj>പൊത്ത്<n>",
+        "comment": "അനുസ്വാരം+വ്യഞ്ജനം = അനുനാസികം(വ്യഞ്ജനം)+ചന്ദ്രക്കല+വ്യഞ്ജനം",
+        "skip": true
+    },
+    {
+        "word": "പനന്തത്ത",
+        "analysis": "പന<n><adj>തത്ത<n>",
+        "comment": "അനുനാസികാദേശം. ത്ത -> ന്ത",
+        "skip": true
+    },
+    {
+        "word": "പനങ്കിളി",
+        "analysis": "പന<n><adj>കിളി<n>",
+        "comment": "അനുനാസികാദേശം. ക്ക -> ങ്ക",
+        "skip": true
+    },
+    {
+        "word": "മലഞ്ചോല",
+        "analysis": "മല<n><adj>ചോല<n>",
+        "skip": true
+    },
+    {
+        "word": "ചാടിപ്പോയി",
+        "analysis": "ചാടുക<v><cvb-adv-part-past>പോകുക<v><past>"
+    },
+    {
+        "word": "വന്നുപോയി",
+        "analysis": "വരുക<v><cvb-adv-part-past>പോകുക<v><past>",
+        "comment": "പദമദ്ധ്യ ഉകാരം സംവൃതം വന്ന്പോയി, ക്രിയകൾക്ക് മാത്രം"
+    },
+    {
+        "word": "തച്ചുകൊന്നു",
+        "analysis": "തല്ലുക<v><cvb-adv-part-past>കൊല്ലുക<v><past>"
+    },
+    {
+        "word": "തല്ലിക്കൊന്നു",
+        "analysis": "തല്ലുക<v><cvb-adv-part-past>കൊല്ലുക<v><past>"
+    },
+    {
+        "word": "പുഴുക്കോട്ട",
+        "analysis": "പുഴു<n><adj>കോട്ട<n>"
+    },
+    {
+        "word": "നുണപ്രചരണം",
+        "analysis": "നുണ<n><adj>പ്രചരണം<sanskrit>",
+        "comment": "പ ഇരട്ടിക്കുന്നത് തൊട്ടടുത്ത് ചന്ദ്രക്കല ഉണ്ടോ എന്നു നോക്കിയാവണം"
+    },
+    {
+        "word": "വിധിപ്രസ്താവന",
+        "analysis": "വിധി<n><adj>പ്രസ്താവന<sanskrit>"
+    },
+    {
+        "word": "കരഞ്ഞുപോയി",
+        "analysis": "കരയുക<v><cvb-adv-part-past>പോകുക<v><past>"
+    },
+    {
+        "word": "ചത്തുപോയി",
+        "analysis": "ചാവുക<v><cvb-adv-part-past>പോകുക<v><past>"
+    },
+    {
+        "word": "തന്ന്",
+        "analysis": "തരിക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "തന്ന്",
+        "analysis": "തരുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "അക്കാര്യം",
+        "analysis": "അ<dem>കാര്യം<n>"
+    },
+    {
+        "word": "കൈകാൽ",
+        "analysis": "കൈ<n><coordinative>കാൽ<n>"
+    },
+    {
+        "word": "സമ്മാനിച്ചു",
+        "analysis": "സമ്മാനിയ്ക്കുക<v><past>"
+    },
+    {
+        "word": "അടിച്ചു്",
+        "analysis": "അടിക്കുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "വന്ന്",
+        "analysis": "വരുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "സമ്മാനിച്ച്",
+        "analysis": "സമ്മാനിയ്ക്കുക<v><cvb-adv-part-past>"
+    },
+    {
+        "word": "ക്ഷീണം...",
+        "analysis": "ക്ഷീണം<n>.<punct>.<punct>.<punct>"
+    },
+    {
+        "word": "എത്ര",
+        "analysis": "എത്ര<qn>"
+    },
+    {
+        "word": "പൂക്കാരി",
+        "analysis": "പൂ<n><feminine><n><deriv>"
+    },
+    {
+        "word": "തൂപ്പുകാരി",
+        "analysis": "തൂപ്പ്<n><feminine><n><deriv>"
+    },
+    {
+        "word": "കേരളക്കര",
+        "analysis": "കേരളം<n><adj>കര<n>"
+    },
+    {
+        "word": "മലയാളഭാഷ",
+        "analysis": "മലയാളം<n><adj>ഭാഷ<sanskrit>"
+    },
+    {
+        "word": "പഞ്ചവർണ്ണത്തത്ത",
+        "analysis": "പഞ്ചം<n><adj>വർണ്ണം<n><adj>തത്ത<n>"
+    },
+    {
+        "word": "മലയാളഭാഷയുടെ",
+        "analysis": "മലയാളം<n><adj>ഭാഷ<sanskrit><genitive>"
+    },
+    {
+        "word": "പോയിരുന്നു",
+        "analysis": "പോകുക<v><simple-perfect-aspect>",
+        "skip": true,
+        "comment": "Now gets പോയിയിരുന്നു"
+    },
+    {
+        "word": "നടന്നിരുന്നു",
+        "analysis": "നടക്കുക<v><simple-perfect-aspect>"
+    },
+    {
+        "word": "വന്നിട്ട്",
+        "analysis": "വരുക<v><remote-perfect-aspect>"
+    },
+    {
+        "word": "വന്നിട്ടില്ല",
+        "analysis": "വരുക<v><remote-perfect-aspect>ഇല്ല<neg>"
+    },
+    {
+        "word": "വന്നിരിക്കുന്നു",
+        "analysis": "വരുക<v><cont-perfect-aspect>"
+    },
+    {
+        "word": "വരാറില്ല",
+        "analysis": "വരുക<v><habitual-aspect>ഇല്ല<neg>"
+    },
+    {
+        "word": "ഓടിക്കൊണ്ടേയിരുന്നു",
+        "analysis": "ഓടുക<v><emphatic-iterative-past-aspect>"
+    },
+    {
+        "word": "പഠിച്ചുകൊണ്ടിരുന്നു",
+        "analysis": "പഠിക്കുക<v><iterative-past-aspect>"
+    },
+    {
+        "word": "ഓടൂ",
+        "analysis": "ഓടുക<v><imperative-mood>"
+    },
+    {
+        "word": "ഓടണം",
+        "analysis": "ഓടുക<v><imperative-mood>"
+    },
+    {
+        "word": "ഓടേണം",
+        "analysis": "ഓടുക<v><imperative-mood>"
+    },
+    {
+        "word": "ഓടേണ്ടതാണ്",
+        "analysis": "ഓടുക<v><imperative-mood>"
+    },
+    {
+        "word": "പതറിയേ",
+        "analysis": "പതറുക<v><compulsive-mood>"
+    },
+    {
+        "word": "പതറാതെ",
+        "analysis": "പതറുക<v><compulsive-mood-neg>"
+    },
+    {
+        "word": "ഓടാം",
+        "analysis": "ഓടുക<v><promissive-mood>"
+    },
+    {
+        "word": "പറയാം",
+        "analysis": "പറയുക<v><promissive-mood>"
+    },
+    {
+        "word": "പറയാൻ",
+        "analysis": "പറയുക<v><purposive-mood>"
+    },
+    {
+        "word": "പറയാവുന്നതേ",
+        "analysis": "പറയുക<v><abilitative-mood>"
+    },
+    {
+        "word": "പതറാം",
+        "analysis": "പതറുക<v><promissive-mood>"
+    },
+    {
+        "word": "പതറിക്കോളാം",
+        "analysis": "പതറുക<v><promissive-mood>"
+    },
+    {
+        "word": "പതറിയിരിയ്ക്കും",
+        "analysis": "പതറുക<v><promissive-mood>"
+    },
+    {
+        "word": "പതറിയിരിക്കും",
+        "analysis": "പതറുക<v><promissive-mood>"
+    },
+    {
+        "word": "പതറിയേക്കാം",
+        "analysis": "പതറുക<v><promissive-mood>"
+    },
+    {
+        "word": "വന്നിരിയ്ക്കും",
+        "analysis": "വരുക<v><promissive-mood>"
+    },
+    {
+        "word": "പോകാം",
+        "analysis": "പോകുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടട്ടെ",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടാം",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടാവുന്നതാണു്",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടാവുന്നതാണ്",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടിക്കോ",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടിക്കോട്ടെ",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടിക്കോളൂ",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "ചാടിയ്ക്കോ",
+        "analysis": "ചാടുക<v><permissive-mood>"
+    },
+    {
+        "word": "അനുഗ്രഹിക്കണേ",
+        "analysis": "അനുഗ്രഹിക്കുക<v><precative-mood>"
+    },
+    {
+        "word": "അനുഗ്രഹിക്കേണമേ",
+        "analysis": "അനുഗ്രഹിക്കുക<v><precative-mood>"
+    },
+    {
+        "word": "അനുഗ്രഹിക്കരുതേ",
+        "analysis": "അനുഗ്രഹിക്കുക<v><precative-neg-mood>"
+    },
+    {
+        "word": "വന്നേനെ",
+        "analysis": "വരുക<v><irrealis-mood>"
+    },
+    {
+        "word": "പോയേനെ",
+        "analysis": "പോകുക<v><irrealis-mood>"
+    },
+    {
+        "word": "പോകുമേ",
+        "analysis": "പോകുക<v><monitory-mood>"
+    },
+    {
+        "word": "പോയാൽ",
+        "analysis": "പോകുക<v><conditional-mood>"
+    },
+    {
+        "word": "പോയാൽ",
+        "analysis": "പോകുക<v><conditional-mood>"
+    },
+    {
+        "word": "പാടിയാൽ",
+        "analysis": "പാടുക<v><conditional-mood>"
+    },
+    {
+        "word": "പാടിയല്ലോ",
+        "analysis": "പാടുക<v><satisfactive-mood>"
+    },
+    {
+        "word": "വന്നുവല്ലോ",
+        "analysis": "വരുക<v><satisfactive-mood>"
+    },
+    {
+        "word": "പോയല്ലോ",
+        "analysis": "പോകുക<v><satisfactive-mood>"
+    },
+    {
+        "word": "എഴുതപ്പെടുക",
+        "analysis": "എഴുതുക<v><passive-voice>"
+    },
+    {
+        "word": "എഴുതപ്പെടും",
+        "analysis": "എഴുതുക<v><passive-voice><future>"
+    },
+    {
+        "word": "എഴുതപ്പെടട്ടെ",
+        "analysis": "എഴുതുക<v><passive-voice><optative-mood>"
+    },
+    {
+        "word": "കാണപ്പെട്ടു",
+        "analysis": "കാണുക<v><passive-voice><past>"
+    },
+    {
+        "word": "ചിരിപ്പിക്കുക",
+        "analysis": "ചിരിക്കുക<v><causative-voice>"
+    },
+    {
+        "word": "ചിരിപ്പിച്ചു",
+        "analysis": "ചിരിക്കുക<v><causative-voice><past>"
+    },
+    {
+        "word": "ചിരിപ്പിക്കും",
+        "analysis": "ചിരിക്കുക<v><causative-voice><future>"
+    },
+    {
+        "word": "ചിരിപ്പിച്ചു്",
+        "analysis": "ചിരിക്കുക<v><causative-voice><cvb-adv-part-past>"
+    },
+    {
+        "word": "ചിരിപ്പിച്ചുകൊണ്ടേയിരുന്നു",
+        "analysis": "ചിരിക്കുക<v><causative-voice><emphatic-iterative-past-aspect>"
+    },
+    {
+        "word": "ചിരിപ്പിച്ചുകൊണ്ടേയിരിക്കും",
+        "analysis": "ചിരിക്കുക<v><causative-voice><emphatic-iterative-future-aspect>"
+    },
+    {
+        "word": "പഠിപ്പിച്ചുകൊണ്ടിരുന്നു",
+        "analysis": "പഠിക്കുക<v><causative-voice><iterative-past-aspect>"
+    },
+    {
+        "word": "പഠിപ്പിച്ചുകൊണ്ടിരിക്കുന്നു",
+        "analysis": "പഠിക്കുക<v><causative-voice><iterative-present-aspect>"
+    },
+    {
+        "word": "പഠിപ്പിച്ചുകൊണ്ടിരിക്കും",
+        "analysis": "പഠിക്കുക<v><causative-voice><iterative-future-aspect>"
+    },
+    {
+        "word": "ചിരിപ്പിക്കാതെ",
+        "analysis": "ചിരിക്കുക<v><causative-voice><compulsive-mood-neg>"
+    },
+    {
+        "word": "ചിരിച്ച",
+        "analysis": "ചിരിക്കുക<v><adv-clause-rp-past>"
+    },
+    {
+        "word": "ചിരിക്കാഞ്ഞ",
+        "analysis": "ചിരിക്കുക<v><adv-clause-rp-past-neg>"
+    },
+    {
+        "word": "പാടിയ",
+        "analysis": "പാടുക<v><adv-clause-rp-past>"
+    },
+    {
+        "word": "പാടാഞ്ഞ",
+        "analysis": "പാടുക<v><adv-clause-rp-past-neg>"
+    },
+    {
+        "word": "ചിരിക്കുന്ന",
+        "analysis": "ചിരിക്കുക<v><adv-clause-rp-present>"
+    },
+    {
+        "word": "ചിരിക്കാത്ത",
+        "analysis": "ചിരിക്കുക<v><adv-clause-rp-present-neg>"
+    },
+    {
+        "word": "പറയുന്ന",
+        "analysis": "പറയുക<v><adv-clause-rp-present>"
+    },
+    {
+        "word": "പറയാത്ത",
+        "analysis": "പറയുക<v><adv-clause-rp-present-neg>"
+    },
+    {
+        "word": "മിഴിയിൽനിന്നും",
+        "analysis": "മിഴി<n><locative>നിന്ന്<postp>ഉം<cnj>"
+    },
+    {
+        "word": "പോയില്ല",
+        "analysis": "പോകുക<v><past>ഇല്ല<neg>"
+    },
+    {
+        "word": "മലയാള",
+        "analysis": "മലയാളം<n><adj>"
+    },
+    {
+        "word": "ചിരിക്കേ",
+        "analysis": "ചിരിക്കുക<v><cvb-adv-part-simul>"
+    },
+    {
+        "word": "ചിരിക്കവേ",
+        "analysis": "ചിരിക്കുക<v><cvb-adv-part-simul>"
+    },
+    {
+        "word": "ചിരിക്കുമ്പോൾ",
+        "analysis": "ചിരിക്കുക<v><cvb-adv-part-simul>"
+    },
+    {
+        "word": "നടന്നപ്പോൾ",
+        "analysis": "നടക്കുക<v><cvb-adv-part-past-simul>"
+    },
+    {
+        "word": "ഓടിയപ്പോൾ",
+        "analysis": "ഓടുക<v><cvb-adv-part-past-simul>"
+    },
+    {
+        "word": "പഞ്ചസാരമണൽത്തരികളിലുമാണ്",
+        "analysis": "പഞ്ചസാര<n><adj>മണൽ<n><adj>തരി<n><pl><locative>ഉം<cnj>ആണ്<aff>"
+    },
+    {
+        "word": "വടിയാലും",
+        "analysis": "വടി<n><instrumental>ഉം<cnj>"
+    },
+    {
+        "word": "വടികൊണ്ടും",
+        "analysis": "വടി<n><instrumental>ഉം<cnj>"
+    },
+    {
+        "word": "തോട്ടത്തിലേയ്ക്കും",
+        "analysis": "തോട്ടം<n><allative>ഉം<cnj>"
+    },
+    {
+        "word": "തോട്ടത്തിലും",
+        "analysis": "തോട്ടം<n><locative>ഉം<cnj>"
+    },
+    {
+        "word": "സന്തോഷിന്റെയും",
+        "analysis": "സന്തോഷ്<np><genitive>ഉം<cnj>"
+    },
+    {
+        "word": "അവന്റെയും",
+        "analysis": "അവൻ<prn><genitive>ഉം<cnj>"
+    },
+    {
+        "word": "വീടുകണ്ടു",
+        "analysis": "വീട്<n><n-v-compound>കാണുക<v><past>"
+    },
+    {
+        "word": "തെറിപറഞ്ഞു",
+        "analysis": "തെറി<n><n-v-compound>പറയുക<v><past>"
+    },
+    {
+        "word": "വീട്ടിലെത്തി",
+        "analysis": "വീട്<n><locative><n-v-compound>എത്തുക<v><past>"
+    },
+    {
+        "word": "അവരെത്തി",
+        "analysis": "അവർ<prn><n-v-compound>എത്തുക<v><past>"
+    },
+    {
+        "word": "ചിരികണ്ടാൽ",
+        "analysis": "ചിരി<n><n-v-compound>കാണുക<v><conditional-mood>"
+    },
+    {
+        "word": "വിലയിരുത്താൻ",
+        "analysis": "വില<n><n-v-compound>ഇരിക്കുക<v><causative-voice><purposive-mood>"
+    },
+    {
+        "word": "പറയാഞ്ഞിട്ട്",
+        "analysis": "പറയുക<v><remote-perfect-aspect-neg>"
+    },
+    {
+        "word": "വരാതിരുന്നു",
+        "analysis": "വരുക<v><simple-perfect-aspect-neg>"
+    },
+    {
+        "word": "വരാതിരിക്കുന്നു",
+        "analysis": "വരുക<v><cont-perfect-aspect-neg>"
+    },
+    {
+        "word": "പോയ",
+        "analysis": "പോകുക<v><adv-clause-rp-past>"
+    },
+    {
+        "word": "വരാതിരിക്കുന്ന",
+        "analysis": "വരുക<v><cont-perfect-aspect-neg><adv-clause-rp-past>"
+    },
+    {
+        "word": "ചിരിച്ചുകൊണ്ടിരുന്ന",
+        "analysis": "ചിരിക്കുക<v><iterative-past-aspect><adv-clause-rp-past>"
+    },
+    {
+        "word": "വരാതിരിക്കുന്നത്",
+        "analysis": "വരുക<v><cont-perfect-aspect-neg><adv-clause-rp-past><n><deriv>"
+    },
+    {
+        "word": "ചിരിച്ചുകൊണ്ടിരുന്നത്",
+        "analysis": "ചിരിക്കുക<v><iterative-past-aspect><adv-clause-rp-past><n><deriv>"
+    },
+    {
+        "word": "പറയുകയും",
+        "analysis": "പറയുക<v>ഉം<cnj>"
+    },
+    {
+        "word": "പത്തു",
+        "analysis": "ഒന്ന്<tens><cardinal><adj>"
+    },
+    {
+        "word": "പത്തുതത്ത",
+        "analysis": "ഒന്ന്<tens><cardinal><adj>തത്ത<n>"
+    },
+    {
+        "word": "അഞ്ചിനം",
+        "analysis": "അഞ്ച്<ones><cardinal><adj>ഇനം<n>"
+    },
+    {
+        "word": "അഞ്ചിനപ്പരിപാടി",
+        "analysis": "അഞ്ച്<ones><cardinal><adj>ഇനം<n><adj>പരിപാടി<n>"
+    },
+    {
+        "word": "പ്രോഗ്രാമിന്റെ",
+        "analysis": "പ്രോഗ്രാം<eng><genitive>"
+    },
+    {
+        "word": "പ്രോഗ്രാമിനെ",
+        "analysis": "പ്രോഗ്രാം<eng><accusative>"
+    },
+    {
+        "word": "ശിവാ",
+        "analysis": "ശിവൻ<np><vocative>"
+    },
+    {
+        "word": "ശിവനേ",
+        "analysis": "ശിവൻ<np><vocative>"
+    },
+    {
+        "word": "പോകില്ല",
+        "analysis": "പോകുക<v>ഇല്ല<neg>"
+    },
+    {
+        "word": "പോകയില്ല",
+        "analysis": "പോകുക<v>ഇല്ല<neg>"
+    },
+    {
+        "word": "പോകുകില്ല",
+        "analysis": "പോകുക<v>ഇല്ല<neg>"
+    },
+    {
+        "word": "പോകുകയില്ല",
+        "analysis": "പോകുക<v>ഇല്ല<neg>"
+    },
+    {
+        "word": "പോകത്തില്ല",
+        "analysis": "പോകുക<v>ഇല്ല<neg>"
+    },
+    {
+        "word": "പാടിക്കൊണ്ടിരിക്കൽ",
+        "analysis": "പാടുക<v><iterative-aspect><n><deriv>"
+    },
+    {
+        "word": "ചാടിവീഴലിൽ",
+        "analysis": "ചാടുക<v><cvb-adv-part-past>വീഴുക<v><n><deriv><locative>"
+    },
+    {
+        "word": "കത്തിത്തീരലിനെയാണ്",
+        "analysis": "കത്തുക<v><cvb-adv-part-past>തീരുക<v><n><deriv><accusative>ആണ്<aff>"
+    },
+    {
+        "word": "സന്തോഷെല്ലാം",
+        "analysis": "സന്തോഷ്<np>എല്ലാം<quantifier>"
+    },
+    {
+        "word": "ദയവുചെയ്തുപോകുക",
+        "analysis": "ദയവ്<n><n-v-compound>ചെയ്യുക<v><cvb-adv-part-past>പോകുക<v>"
+    },
+    {
+        "word": "തീർച്ചപ്പെടുത്തി",
+        "analysis": "തീർച്ചപ്പെടുക<v><causative-voice><past>"
+    },
+    {
+        "word": "വരൂ",
+        "analysis": "വരുക<v><imperative-mood>"
+    },
+    {
+        "word": "വളരെയേറെ",
+        "analysis": "വളരെ<quantifier>ഏറെ<quantifier>"
+    },
+    {
+        "word": "പിടിയമരുക",
+        "analysis": "പിടി<n><n-v-compound>അമരുക<v>"
+    },
+    {
+        "word": "വനിതാമതിൽ",
+        "analysis": "വനിത<sanskrit><adj>മതിൽ<n>"
+    },
+    {
+        "word": "യുവതീപ്രവേശനം",
+        "analysis": "യുവതി<sanskrit><adj>പ്രവേശനം<sanskrit>"
+    },
+    {
+        "word": "യുവതീപ്രവേശനവിഷയത്തിൽ",
+        "analysis": "യുവതി<sanskrit><adj>പ്രവേശനം<sanskrit><adj>വിഷയം<n><locative>"
+    },
+    {
+        "word": "സാങ്കേതികവിദ്യാ",
+        "analysis": "സാങ്കേതികം<n><adj>വിദ്യ<sanskrit><adj>"
+    },
+    {
+        "word": "നദീതീരം",
+        "analysis": "നദി<sanskrit><adj>തീരം<sanskrit>"
+    },
+    {
+        "word": "നദിക്കര",
+        "analysis": "നദി<sanskrit><adj>കര<n>"
+    },
+    {
+        "word": "ചിന്താശേഷി",
+        "analysis": "ചിന്ത<sanskrit><adj>ശേഷി<sanskrit>"
+    },
+    {
+        "word": "നതാംഗി",
+        "analysis": "നതം<sanskrit><adj>അംഗി<sanskrit>"
+    },
+    {
+        "word": "കൊടുക്കുകയായിരുന്നെങ്കിൽ",
+        "analysis": "കൊടുക്കുക<v>ആയിരുന്നു<cnj>എങ്കിൽ<cnj>"
+    },
+    {
+        "word": "ഭാഷയിൽ",
+        "analysis": "ഭാഷ<sanskrit><locative>"
+    },
+    {
+        "word": "ഭാഷയല്ല",
+        "analysis": "ഭാഷ<sanskrit>അല്ല<neg>"
+    },
+    {
+        "word": "ഭാഷയാണ്",
+        "analysis": "ഭാഷ<sanskrit>ആണ്<aff>"
+    },
+    {
+        "word": "ഭാഷാധ്യാപനം",
+        "analysis": "ഭാഷ<sanskrit><adj>അധ്യാപനം<sanskrit>"
+    },
+    {
+        "word": "ഭാഷാന്തരം",
+        "analysis": "ഭാഷ<sanskrit><adj>അന്തരം<sanskrit>"
+    },
+    {
+        "word": "ക്രമപ്പെടുത്തുക",
+        "analysis": "ക്രമം<n><adj><n-v-compound>പെടുക<v><causative-voice>"
+    },
+    {
+        "word": "പുതിയൊരു",
+        "analysis": "പുതിയ<adj>ഒരു<adj>"
+    },
+    {
+        "word": "ആസ്ത്രേലിയയിൽ",
+        "analysis": "ആസ്ത്രേലിയ<np><locative>"
+    },
+    {
+        "word": "കുത്തകാവകാശമുള്ള",
+        "analysis": "കുത്തക<sanskrit><adj>അവകാശം<sanskrit>ഉള്ള<cnj>"
+    },
+    {
+        "word": "കുത്തകച്ചരക്ക്",
+        "analysis": "കുത്തക<n><adj>ചരക്ക്<n>"
+    },
+    {
+        "word": "പ്രവിശ്യയിൽ",
+        "analysis": "പ്രവിശ്യ<sanskrit><locative>"
+    },
+    {
+        "word": "യൂണിവേഴ്സിറ്റിയിൽ",
+        "analysis": "യൂണിവേഴ്സിറ്റി<eng><locative>"
+    },
+    {
+        "word": "മീഡിയയിൽ",
+        "analysis": "മീഡിയ<eng><locative>"
+    },
+    {
+        "word": "ഭാഷയിൽ",
+        "analysis": "ഭാഷ<sanskrit><locative>"
+    },
+    {
+        "word": "ഒരുലക്ഷത്തിനാല്",
+        "analysis": "ഒന്ന്<ones><lakhs>നാല്<ones><cardinal>"
+    },
+    {
+        "word": "ഒരുലക്ഷം",
+        "analysis": "ഒന്ന്<ones><lakhs><cardinal>"
+    },
+    {
+        "word": "ഒരുകോടിനാല്",
+        "analysis": "ഒന്ന്<ones><crores>നാല്<ones><cardinal>"
+    },
+    {
+        "word": "ഒരുകോടി",
+        "analysis": "ഒന്ന്<ones><crores><cardinal>"
+    },
+    {
+        "word": "ഒരുക്കി",
+        "analysis": "ഒരുങ്ങുക<v><causative-voice><past>"
+    },
+    {
+        "word": "മുംബൈയിൽ",
+        "analysis": "മുംബൈ<np><locative>"
+    },
+    {
+        "word": "കവിതയെക്കുറിക്കുക",
+        "analysis": "കവിത<n><accusative><n-v-compound>കുറിക്കുക<v>"
+    }
+]
